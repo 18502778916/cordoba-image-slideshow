@@ -37,8 +37,8 @@
       <file leaf-file-name="ImagePlugin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/apache/cordova/images/ImagePlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3715847">
-              <caret line="59" column="82" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="82" />
+            <state vertical-scroll-proportion="0.8360656">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="e#598#606#0" expanded="true" />
               </folding>
@@ -2076,8 +2076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/cordova/images/ImagePlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3715847">
-          <caret line="59" column="82" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="82" />
+        <state vertical-scroll-proportion="0.8360656">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
             <element signature="e#598#606#0" expanded="true" />
           </folding>
