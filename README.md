@@ -1,1 +1,1 @@
-# slideImagePlugin
+# MorePicturePlugin
