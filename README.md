@@ -1,1 +1,1 @@
-# imagePlugin
+# slideImagePlugin
