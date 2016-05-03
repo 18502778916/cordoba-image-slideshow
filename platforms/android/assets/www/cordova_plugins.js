@@ -9,7 +9,7 @@ module.exports = [
                 "file":"plugins/myplugin-images/images.js",
                 "id":"org.apache.cordova.images.ImagePlugin",
                 "clobbers":[
-                "navigator.webimages"
+                "showImages"
                 ]
 
             }
