@@ -4,6 +4,7 @@
   id="org.apache.cordova.images"
       version="1.0.0">
     <name>ImagePlugin</name>
+    <repo>https://github.com/18502778916/cordoba-image-slideshow.git</repo>
      <js-module src="www/images.js" name="ImagePlugin">
     <clobbers target="showImages" />
   </js-module>
